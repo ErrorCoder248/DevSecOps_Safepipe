@@ -1,0 +1,12 @@
+AWS_ACCESS_KEY = "AKIAEXAMPLE12345678"
+AWS_SECRET_KEY = "wJalrXUtnFEMI/K7MDENG/bPxRfiCYEXAMPLEKEY"
+
+GOOGLE_API_KEY = "AIzaSyA-ExampleKey1234567890abcdefghi"
+
+SLACK_BOT_TOKEN = "xoxb-123456789012-123456789012-abcdefghijklmnopqrstuvwx"
+
+api_key = "abcd1234efgh5678ijkl9012mnop3456qrst7890"
+
+DATABASE_URL = "postgresql://user:pass@localhost/dbname"
+
+print("This is just a fake test file for SafePipe scanning.")
